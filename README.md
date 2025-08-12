@@ -9,7 +9,7 @@ I love working with **TypeScript, Next.js, Java, and PostgreSQL**, blending clea
 - 🌱 I'm currently learning **advanced DevOps, AWS deployments, and system security**.
 - 👯 I'm looking to collaborate on **open-source, eCommerce, and high-performance backend systems**.
 - 💬 Ask me about **TypeScript, Java, PostgreSQL, Next.js, and system architecture**.
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/josephbtr)** or **[Email](mailto:codereveur@gmail.com)**
+- 📫 How to reach me: **[LinkedIn](www.linkedin.com/in/joseph-maranatha)** or **[Email](mailto:codereveur@gmail.com)**
 - ⚡ Fun fact: I built a **Java-based automatic bell system** in just 2 weeks, and **Kamero Stock Management** in 2 weeks
 
 ## 🛠️ Technologies & Tools
