@@ -1,6 +1,6 @@
 # Hi there, I'm Joseph Maranatha👋
 
-## 🚀 About Me
+##
 
 I'm a **Full-Stack Developer** passionate about **building scalable web applications, backend systems, and elegant user interfaces**.  
 I love working with **TypeScript, Next.js, Java, and PostgreSQL**, blending clean code with impactful user experiences.
