@@ -79,9 +79,9 @@ A Java-based school bell automation system driven by day-based schedules stored 
 
 ## Education and Certifications
 
-- **BSc in Computer Science** — [University Name], [Year]
-- **AWS Certified Developer** — Amazon Web Services, [Year]
-- **Full-Stack Web Development** — [Platform/Institution], [Year]
+- **High School Diploma** — Nsheke High School, 2023
+- **AWS Certified Developer** — Amazon Web Services, 2024
+- **Full-Stack Web Development** — Amoria Connekyt, 2026
 
 ---
 
