@@ -1,122 +1,100 @@
-# Hi there, I'm Joseph Maranatha👋
+# Joseph Maranatha
 
-##
+**Full-Stack Developer | Backend Systems Engineer**
 
-I'm a **Full-Stack Developer** passionate about **building scalable web applications, backend systems, and elegant user interfaces**.  
-I love working with **TypeScript, Next.js, Java, and PostgreSQL**, blending clean code with impactful user experiences.
+I am a full-stack developer focused on building scalable web applications, robust backend systems, and clean, intuitive user interfaces. My core stack is TypeScript, Next.js, Java, and PostgreSQL, and I approach every project with an emphasis on maintainable code, performance, and real-world impact.
 
-- 🔭 I'm currently working on **JamboLush** – an eCommerce platform for *House Reservation*, and a **Kamero Research Base**.
-- 🌱 I'm currently learning **advanced DevOps, AWS deployments, and system security**.
-- 👯 I'm looking to collaborate on **open-source, eCommerce, and high-performance backend systems**.
-- 💬 Ask me about **TypeScript, Java, PostgreSQL, Next.js, and system architecture**.
-- 📫 How to reach me: **[LinkedIn](www.linkedin.com/in/joseph-maranatha)** or **[Email](mailto:codereveur@gmail.com)**
-- ⚡ Fun fact: I built a **Java-based automatic bell system** in just 2 weeks, and **Kamero Stock Management** in 2 weeks
+- Currently building **JamboLush**, a property booking and tours platform for East Africa, and contributing to the **Kamero Research Base** platform.
+- Expanding my expertise in advanced DevOps practices, AWS deployments, and system security.
+- Open to collaboration on open-source projects, eCommerce platforms, and high-performance backend systems.
+- Ask me about TypeScript, Java, PostgreSQL, Next.js, and system architecture.
 
-## 🛠️ Technologies & Tools
-
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-### Database
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codereveur&show_icons=true&theme=radical&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codereveur&layout=compact&theme=radical&hide_border=true" height="165">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codereveur&theme=radical&hide_border=true">
-</div>
-
-## 🏆 Featured Projects
-
-### [Bia – Made in Rwanda E-Commerce](https://github.com/codereveur/bia)
-An eCommerce platform for *Made in Rwanda* fashion and handcrafted baskets.
-- 🔧 **Tech Stack:** Next.js, TypeScript, PostgreSQL, TailwindCSS
-- 🌟 **Features:** Secure sessions, responsive UI, custom preloader
-- 🔗 **Live Demo:** Coming soon
-
-### [Railway Management System](https://github.com/codereveur/railway-system)
-A Java-based railway booking and scheduling platform with PostgreSQL integration.
-- 🔧 **Tech Stack:** Java, Spring Boot, PostgreSQL
-- 🌟 **Features:** Role-based access, booking management, attendance tracking
-
-### [Automatic Bell System](https://github.com/codereveur/bell-system)
-Java-based school bell system with day-based schedules from SQLite.
-- 🔧 **Tech Stack:** Java, SQLite
-- 🌟 **Features:** 1-second loop scheduler, dynamic timetable loading
-
-## 💼 Professional Experience
-
-### Kamero Research Base – Backend Developer
-*Ongoing*
-- Built scalable TypeScript backend solutions.
-- Integrated secure PostgreSQL queries.
-- Designed optimized APIs for real-time applications.
-
-## 🎓 Education & Certifications
-- **BSc in Computer Science** – [Your University] (Year)
-- **AWS Certified Developer** – Amazon Web Services (Year)
-- **Full-Stack Web Development** – [Platform] (Year)
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable E-Commerce with Next.js & PostgreSQL](#)
-- [Session Management in TypeScript Apps](#)
-- [Optimizing Java Applications for Real-Time Systems](#)
-<!-- BLOG-POST-LIST:END -->
-
-## 🤝 Connect with Me
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
-## 💡 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Contact:** [LinkedIn](https://www.linkedin.com/in/joseph-maranatha) | [Email](mailto:codereveur@gmail.com)
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=codereveur&color=blueviolet&style=flat-square&label=Profile+Views" />
-</div>
+## Organizations
 
-<div align="center">
-  
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+| Organization | Role | Description |
+|---|---|---|
+| **Amoria Global Tech Ltd** | Chief Technology Officer | Kigali-based technology company operating a portfolio of digital platforms across East Africa |
+| **JamboLush** | Lead Full-Stack Developer | Property booking and tours platform, including payment integrations (Pesapal, XentriPay), escrow systems, and admin dashboards |
+| **Connekyt** | Platform Developer | Creative-commerce platform for photographers, live streamers, and event coordinators |
+| **Kamero Research Base (Kamero Ltd)** | Backend Developer | Research management platform serving academic and institutional partners in Rwanda |
+| **Ikibando Ltd** | Contributing Developer | On-demand workforce request-and-dispatch platform |
 
-</div>
+---
+
+## Technologies and Tools
+
+**Languages:** TypeScript, JavaScript, Java, Python, C++
+
+**Frontend:** React, Next.js, Vue.js, HTML5, CSS3, Tailwind CSS
+
+**Backend:** Node.js, Express, Spring Boot, Django, FastAPI
+
+**Databases:** PostgreSQL, MongoDB, MySQL, SQLite
+
+**DevOps and Infrastructure:** Docker, AWS, DigitalOcean, Nginx, PM2, Git, CI/CD
+
+---
+
+## Featured Projects
+
+### Bia – Made in Rwanda E-Commerce
+An eCommerce platform showcasing Made in Rwanda fashion and handcrafted products.
+- **Tech Stack:** Next.js, TypeScript, PostgreSQL, Tailwind CSS
+- **Highlights:** Secure session management, fully responsive UI, custom-built loading experience
+- **Repository:** [github.com/codereveur/bia](https://github.com/codereveur/bia)
+
+### Railway Management System
+A Java-based railway booking and scheduling platform with PostgreSQL integration.
+- **Tech Stack:** Java, Spring Boot, PostgreSQL
+- **Highlights:** Role-based access control, booking management, attendance tracking
+- **Repository:** [github.com/codereveur/railway-system](https://github.com/codereveur/railway-system)
+
+### Automatic Bell System
+A Java-based school bell automation system driven by day-based schedules stored in SQLite. Designed, built, and delivered in two weeks.
+- **Tech Stack:** Java, SQLite
+- **Highlights:** One-second precision loop scheduler, dynamic timetable loading
+- **Repository:** [github.com/codereveur/bell-system](https://github.com/codereveur/bell-system)
+
+---
+
+## Professional Experience
+
+### Amoria Global Tech Ltd — Chief Technology Officer
+*Kigali, Rwanda | Ongoing*
+- Lead technical strategy and architecture across a multi-platform portfolio (JamboLush, Connekyt, Ikibando).
+- Oversee full-stack development, server infrastructure, deployment pipelines, and security hardening.
+- Manage payment gateway integrations including mobile money (MTN MoMo, Airtel), Pesapal, and XentriPay.
+
+### Kamero Research Base — Backend Developer
+*Ongoing*
+- Built scalable TypeScript backend services powering research management workflows.
+- Implemented secure, optimized PostgreSQL data access layers.
+- Designed high-performance APIs for real-time application features.
+
+---
+
+## Education and Certifications
+
+- **BSc in Computer Science** — [University Name], [Year]
+- **AWS Certified Developer** — Amazon Web Services, [Year]
+- **Full-Stack Web Development** — [Platform/Institution], [Year]
+
+---
+
+## Writing
+
+- Building Scalable E-Commerce with Next.js and PostgreSQL
+- Session Management in TypeScript Applications
+- Optimizing Java Applications for Real-Time Systems
+
+---
+
+## Connect
+
+- **LinkedIn:** [linkedin.com/in/joseph-maranatha](https://www.linkedin.com/in/joseph-maranatha)
+- **Email:** [codereveur@gmail.com](mailto:codereveur@gmail.com)
+- **GitHub:** [github.com/codereveur](https://github.com/codereveur)
